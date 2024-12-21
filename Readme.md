@@ -47,7 +47,7 @@ Follow these steps to set up the project locally:
 - **Python**: Programming language
 - **Scikit-learn**: Machine Learning library
 - **TensorFlow/Keras**: Deep Learning framework
-- **Flask**: Web framework for the application
+- **Streamlit**: Web framework for the application
 
 ## 🤝 Contributing
 We welcome contributions from the community. To contribute:
