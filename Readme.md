@@ -24,7 +24,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/SMS-Email-Spam-Detector.git
+    git clone https://github.com/Ayush18012003/SMS-Email-Spam-Detection-App.git
     cd SMS-Email-Spam-Detector
     ```
 
