@@ -1,4 +1,4 @@
-# 📧 SMS-Email Spam Detector Using ML & DL
+# 📧 SMS-Email Spam Detector Using ML
 
 Welcome to the SMS-Email Spam Detector project! This project leverages Machine Learning (ML) and Deep Learning (DL) techniques to detect spam messages in SMS and email communications.
 
